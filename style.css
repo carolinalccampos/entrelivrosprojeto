@@ -1,0 +1,255 @@
+.row{
+    margin: 0% auto;
+    justify-content: left;
+    align-items: left;
+  }
+  
+  .menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  } 
+
+  .custom-search-box {
+    width: 400px;
+    height: 40px; 
+    margin: 10px auto; 
+}
+
+.clássicos{
+    margin: 2% auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 7%;
+}
+
+h1{
+    font-size: 36px;
+    font-style: normal;
+}
+
+h2{
+    font-size: 20px;
+    font-style: normal;
+}
+
+h3{
+    font-size: 13px;
+    color: #A9a9a9;
+    font-style: italic;
+}
+
+h4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+h5{
+    font-size: 20px;
+    color: #A9a9a9;
+    font-style: normal;
+}
+
+.sugestões {
+    padding: 50px;
+    align-items: center;
+    display: flex;
+  }
+  
+  .mini{
+    width: 250px;
+    height: 250px;
+    margin: 3%;
+    margin-top: -1%;
+  }
+
+  .fundação{
+    width: 250px;
+    height: 250px;
+    margin: 3%;
+    margin-top: -1%;
+  }
+
+  .troca{
+    width: 250px;
+    height: 250px;
+    margin: 3%;
+    margin-top: -1%;
+  }
+
+  .clube{
+    width: 250px;
+    height: 250px;
+    margin: 3%;
+    margin-top: -1%;
+  }
+
+  .escritores {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+  }
+
+  .josé img {
+    width: 180px;
+    height: 180px;
+    border: 5px solid white;
+    border-radius: 90px;
+    object-fit: cover;
+    box-sizing: border-box;
+  }
+  
+  .maria img {
+    width: 180px;
+    height: 180px;
+    border: 5px solid white;
+    border-radius: 90px;
+    object-fit: cover;
+    box-sizing: border-box;
+  }
+  
+  .luis img {
+    width: 180px;
+    height: 180px;
+    border: 5px solid white;
+    border-radius: 90px;
+    object-fit: cover;
+    box-sizing: border-box;
+  }
+  
+  .rogerio img {
+    width: 180px;
+    height: 180px;
+    border: 5px solid white;
+    border-radius: 90px;
+    object-fit: cover;
+    box-sizing: border-box;
+  }
+
+  .bibliotecas {
+    padding: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -5%;
+  }
+  
+  .biblioteca1{
+    margin-top: -3%;
+    margin: 0%;
+  }
+  .biblioteca2{
+    margin-top: -3%;
+    margin: 0%;
+  }
+  .biblioteca3{
+    margin-top: -3%;
+    margin: 0%;
+  }
+
+  .section-1 {
+    display: flex;
+    margin: 16px 0;
+    gap: 36px;
+  }
+  
+  .section-1 > div {
+    flex-basis: 0;
+    flex-grow: 1;
+    min-width: 0;
+  }
+  
+  .section-1 img {
+    width: 100%;
+    border-radius: 5%;
+  }
+
+  #image{
+    height: 600px;
+    width: 400px;
+    margin-left: 25%;
+  }
+
+  .text{
+    margin-right: 10%;
+  }
+
+  .estrelas{
+    color: #F4D150;
+  }
+
+  #estrelas2{
+    color: #A9a9a9
+  }
+
+  .numero{
+    font-size: 20px;
+    color: #000000;
+  }
+
+  #justified-text{
+    text-align: justify;
+  }
+
+  .autor{
+    margin-left: 9%;
+  }
+
+  .sobre{
+    padding: 142px;
+    margin-top: -10%;
+  }
+
+  .texto{
+    padding: 70px;
+  }
+
+  .lxfactory img{
+    height: 300px;
+    width: 300px;
+  } 
+
+  .paginabiblio{
+    padding: 50px;
+    align-items: left;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -5%;
+  }
+
+  .lxfactory{
+    margin-top: -3%;
+    margin: 0%;
+  }
+
+  .paginasbiblioteca{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -5%;
+    margin-right: 10%;
+    margin-left: 8%;
+    gap: 36px;
+   
+  }
+
+  .rodape{
+    background-color: #526159;
+    height: 230px;
+    color: white;
+  }
+
+  .pontos1{
+    display: block;
+  }
+
+  .pontos{
+    display: flex;
+    justify-content: space-around;
+  }
+
+ 
